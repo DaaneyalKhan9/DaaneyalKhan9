@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 - 🚀 **Aspiring AI Engineer & Startup Founder**  
-- 🔭 Currently working on Developing my Skillset  
+- 🔭 Currently working on Developing my Skills, specifically Python and Js  
 - 🎯 Exploring **AI-focused projects**  
-- 💡 Passionate about **AI, Web Development, and Business Automation**  
+- 💡 Passionate about **AI, Web Development, Tech**  
 - 🎓 **2nd Year CS Student @ University Of Huddersfield**  
-- 🌱 Currently learning **AI, Machine Learning and Data**  
+- 🌱 Currently learning **AI, Machine Learning, Data and Maths**  
 
 ---
 
