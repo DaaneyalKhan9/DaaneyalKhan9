@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DaaneyalKhan9"><img src="https://img.shields.io/github/followers/DaaneyalKhan9?label=Followers&style=social"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/daaneyal-khan-a1329426b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
 </p>
 
@@ -14,17 +14,17 @@
 
 ## 👨‍💻 About Me
 - 🚀 **Aspiring AI Engineer & Startup Founder**  
-- 🔭 Currently working on **CliniQ - A Medical Dashboard App**  
-- 🎯 Exploring **AI-powered SaaS tools & branded dropshipping automation**  
+- 🔭 Currently working on Developing my Skillset  
+- 🎯 Exploring **AI-focused projects**  
 - 💡 Passionate about **AI, Web Development, and Business Automation**  
-- 🎓 **2nd Year CS Student @ Your University**  
-- 🌱 Currently learning **Machine Learning, Algorithms & Startup Building**  
+- 🎓 **2nd Year CS Student @ University Of Huddersfield**  
+- 🌱 Currently learning **AI, Machine Learning and Data**  
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,java,mysql,github,docker" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,java,mysql,github" />
 </p>
 
 ---
@@ -37,14 +37,6 @@
 
 ---
 
-## 🚀 Projects
-### Featured:
-🔹 **[CliniQ - AI-Powered Healthcare App](https://github.com/DaaneyalKhan9/CliniQ)**  
-🔹 **[AI-Powered Notes Automation](https://github.com/DaaneyalKhan9/AI-Notes)**  
-🔹 **[Branded Dropshipping Assistant](https://github.com/DaaneyalKhan9/DropshippingAI)**  
-
----
-
 ## 🎯 Let's Connect!
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
@@ -53,6 +45,3 @@
 </p>
 
 ---
-
-## 🎵 Fun Fact
-💡 AI is revolutionising every industry! Will **your startup** be the next big thing? 🚀
