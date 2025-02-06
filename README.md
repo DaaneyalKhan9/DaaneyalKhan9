@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daaneyal Khan 👋</h1>
 
 <p align="center">
-  🚀 AI Enthusiast | 💻 Software Developer | 📊 Aspiring Tech Entrepreneur
+  🚀 Aspiring AI Engineer | 💻 Computer Science Student | 📊 Aspiring Tech Entrepreneur
 </p>
 
 <p align="center">
