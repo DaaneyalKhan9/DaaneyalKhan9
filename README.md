@@ -31,9 +31,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=daaneyalkhan9&show_icons=true&theme=dark&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=daaneyalkhan9&show_icons=true&theme=radical&cache_seconds=1800" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaaneyalKhan9&theme=radical" />
-  (https://github-readme-stats.vercel.app/api?username=daaneyalkhan9&show_icons=true&theme=dark&cache_seconds=1800)
+  
 </p>
 
 ---
