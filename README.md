@@ -29,13 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=daaneyalkhan9&show_icons=true&theme=dark&cache_seconds=1800" />
-</p>
-
----
-
 ## 🎯 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/daaneyal-khan-a1329426b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
